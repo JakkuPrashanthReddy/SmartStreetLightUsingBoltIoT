@@ -2,7 +2,7 @@
 
 bolt_api_key = 'xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'         # You Bolt API key
 device_id = 'BOLTxxxxxxx'                                    # Your Bolt Device Name
-PIN = '0'
+PIN = '0' # You can choose your desired digital Pin
 
 # telegram Configuration
 
